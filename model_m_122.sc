@@ -22,9 +22,9 @@ remapblock
 	#F19
 	#F20
 	#F21
-	#F22
-	#F23
-	#F24
+	F22		MEDIA_MUTE
+	F23		MEDIA_VOLUME_DOWN
+	F24		MEDIA_VOLUME_UP
 # upper left corner on number block
 	ESC	NUM_LOCK
 
