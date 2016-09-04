@@ -26,13 +26,26 @@ remapblock
 	F23		MEDIA_VOLUME_DOWN
 	F24		MEDIA_VOLUME_UP
 # upper left corner on number block
-	ESC	NUM_LOCK
+	ESC		NUM_LOCK
 
 #second key on the first line of the num block
-	#NUM_LOCK: 
-	#SCROLL_LOCK: third key on the first line of the num block
-	#EXTRA_SYSRQ: upper right corner on number block
-	#PAD_ASTERIX: second row, rightmost key on the number block
-	#PAD_MINUS: third row, rightmost key on the number block
-	#PAD_PLUS: fourth and fifth row, lower right corner of the num block, double sized key.
+	#NUM_LOCK
+
+#third key on the first line of the num block
+	#SCROLL_LOCK
+
+#upper right corner on number block
+	#EXTRA_SYSRQ
+
+#second row, rightmost key on the number block
+	#PAD_ASTERIX
+
+#third row, rightmost key on the number block
+	#PAD_MINUS
+
+#fourth and fifth row, lower right corner of the num block, double sized key.
+	#PAD_PLUS
+
+#(only on ISO keyboards): key directly to the left of the ISO big Return key in the ASDF row. Should be mapped to BACKSLASH to work as expected.
+	EUROPE_1	BACKSLASH
 endblock
