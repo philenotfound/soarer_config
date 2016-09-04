@@ -13,8 +13,8 @@ remapblock
 	#EXTRA_F9
 	#EXTRA_F10
 #function keys upper row from left to right, like the legends say.
-	#F13
-	#F14
+	F13		ESC
+	F14		SYSTEM_SLEEP
 	#F15
 	#F16
 	#F17
