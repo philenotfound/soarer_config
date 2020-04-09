@@ -1,5 +1,7 @@
 remapblock
 	CAPS_LOCK	LGUI
+# Escape
+	F13		ESC
 # upper left corner on number block
 	ESC		NUM_LOCK
 
